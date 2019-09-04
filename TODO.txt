@@ -1,0 +1,8 @@
+====================
+TODO
+====================
+- reconsider aesthetics
+- make second cookie
+- make second youtube video
+- fix problem with it only working once per console (console has to restart every run)
+- fix problem with user tabbing out then tabbing in and structures + upgrades menu disappearing (does it reload when the user tabs out then in?)
